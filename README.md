@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+While Coding this Final Project, I thought that we could improve the form section with a TripleTen Cafe reward section with a Login and password form. I liked how the background looks but It would be improved if it was 2D animated thats something I'm looking forward to learn in the future projects.
