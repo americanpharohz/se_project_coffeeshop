@@ -14,14 +14,13 @@
 
 .header__title {
   max-width: 729px;
-  margin-bottom: 28px;
-  margin-left: 80px;
   font-style: normal;
   font-family: "Inter", Arial, serif;
   font-weight: 500;
   font-size: 60px;
   line-height: 72px;
   letter-spacing: -0.6px;
+  margin: 0 0 28px 80px;
 }
 
 .header__span-accent {
@@ -47,7 +46,7 @@
 .header__image {
   width: 646px;
   height: 568px;
-  z-index: 1;
+  z-index: -1;
   position: absolute;
   top: 124px;
   right: 5px;
@@ -73,4 +72,5 @@
 
 .header__paragraph {
   margin: 0;
+  color: #000;
 }
